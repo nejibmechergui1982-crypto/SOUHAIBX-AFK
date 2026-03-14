@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SANBOSACRAFT.aternos.me",
-    "port": 34652,
+    "port":34652,
     "version": "",
     "try-creative": false
   },
